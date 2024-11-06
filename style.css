@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+h1{
+    background-color: lightskyblue;
+    color: blue;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+body{
+    background-color: gray;
+}
+h2{
+    background-color: lightgreen;
+    color: green;
+    text-align: right;
+    text-decoration: underline;
+}
+.unorder{
+    color: aliceblue;
+    text-decoration-line: line-through;
+    font-family: "Dancing Script", cursive;
+}
+p{
+    font-family: "Roboto Flex", sans-serif;
+}
